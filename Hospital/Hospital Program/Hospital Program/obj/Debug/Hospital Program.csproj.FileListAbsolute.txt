@@ -1,0 +1,36 @@
+C:\Code\Hospital\Hospital Program\Hospital Program\bin\Debug\Hospital Program.exe.config
+C:\Code\Hospital\Hospital Program\Hospital Program\bin\Debug\Hospital Program.exe
+C:\Code\Hospital\Hospital Program\Hospital Program\bin\Debug\Hospital Program.pdb
+C:\Code\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital Program.csprojResolveAssemblyReference.cache
+C:\Code\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital_Program.MainWindow.resources
+C:\Code\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital_Program.Properties.Resources.resources
+C:\Code\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital Program.csproj.GenerateResource.Cache
+C:\Code\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital Program.csproj.CoreCompileInputs.cache
+C:\Code\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital Program.exe
+C:\Code\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital Program.pdb
+C:\Code\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital_Program.AddDocWindow.resources
+C:\Code\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital_Program.UpdDelDoctor.resources
+C:\Users\Orkhan Ismayilov\Desktop\Hospital\Hospital Program\Hospital Program\bin\Debug\Hospital Program.exe.config
+C:\Users\Orkhan Ismayilov\Desktop\Hospital\Hospital Program\Hospital Program\bin\Debug\Hospital Program.exe
+C:\Users\Orkhan Ismayilov\Desktop\Hospital\Hospital Program\Hospital Program\bin\Debug\Hospital Program.pdb
+C:\Users\Orkhan Ismayilov\Desktop\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital Program.csprojResolveAssemblyReference.cache
+C:\Users\Orkhan Ismayilov\Desktop\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital_Program.MainWindow.resources
+C:\Users\Orkhan Ismayilov\Desktop\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital_Program.AddDocWindow.resources
+C:\Users\Orkhan Ismayilov\Desktop\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital_Program.UpdDelDoctor.resources
+C:\Users\Orkhan Ismayilov\Desktop\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital_Program.Properties.Resources.resources
+C:\Users\Orkhan Ismayilov\Desktop\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital Program.csproj.GenerateResource.Cache
+C:\Users\Orkhan Ismayilov\Desktop\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital Program.csproj.CoreCompileInputs.cache
+C:\Users\Orkhan Ismayilov\Desktop\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital Program.exe
+C:\Users\Orkhan Ismayilov\Desktop\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital Program.pdb
+C:\Users\Orkhan Ismayilov\Desktop\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital_Program.AddingDept.resources
+C:\Users\Orkhan Ismayilov\Desktop\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital_Program.NewPatient.resources
+C:\Users\Orkhan Ismayilov\Desktop\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital_Program.UpdDelPatient.resources
+C:\Code\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital_Program.AddingDept.resources
+C:\Code\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital_Program.NewPatient.resources
+C:\Code\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital_Program.UpdDelPatient.resources
+C:\Code\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital_Program.NewProcedure.resources
+C:\Code\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital_Program.ProcedureInfo.resources
+C:\Code\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital_Program.FindPatient.resources
+C:\Users\Orkhan Ismayilov\Desktop\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital_Program.FindPatient.resources
+C:\Users\Orkhan Ismayilov\Desktop\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital_Program.ProcedureInfo.resources
+C:\Users\Orkhan Ismayilov\Desktop\Hospital\Hospital Program\Hospital Program\obj\Debug\Hospital_Program.NewProcedure.resources
