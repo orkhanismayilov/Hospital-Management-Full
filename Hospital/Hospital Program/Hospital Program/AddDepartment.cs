@@ -38,6 +38,7 @@ namespace Hospital_Program
                     if(r.GetString(0) == txtNewDeptName.Text)
                     {
                         MessageBox.Show("Department " + txtNewDeptName.Text + " is already existing in database.", "Error");
+                        return;
                     }
                 }
                 con.Close();
